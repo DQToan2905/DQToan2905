@@ -5,8 +5,11 @@
 <a href="https://www.facebook.com/dqtoan.03" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dqtoan.03" height="30" width="40" />
 </a>
-<a href="mailto:dqtoan2905@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://path-to-your-gmail-icon.png" alt="Gmail" height="30" width="40" />
+  <a href="https://www.instagram.com/dinh.toz_" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/toàn-đinh-1b0aa9311" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
 </p>
