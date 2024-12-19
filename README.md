@@ -24,6 +24,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dqtoan2905&show_icons=true&locale=en&layout=compact" alt="dqtoan2905" /></p>
 
+<h3 align="left">📊 Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dqtoan2905&show_icons=true&locale=en" alt="dqtoan2905" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dqtoan2905&show_icons=true&locale=en&layout=compact" alt="dqtoan2905" /></p>
