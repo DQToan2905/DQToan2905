@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Toan</h1>
 <h3 align="justify">As a university student pursuing a degree in data science, I am eager to apply my analytical skills and passion for working with data to a professional role. Through my coursework and personal projects, I have developed expertise in Python, SQL, data visualization, and machine learning techniques. I am now seeking an entry-level position where I can contribute my knowledge and continue growing as a data professional</h3>
-📫 How to reach me dqtoan2905@gmail.com
+📫 How to reach me: dqtoan2905@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/toàn-đinh-1b0aa9311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toàn-đinh-1b0aa9311" height="30" width="40" /></a>
