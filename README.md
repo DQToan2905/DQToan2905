@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Toan</h1>
 <h3 align="justify">As a university student pursuing a degree in data science, I am eager to apply my analytical skills and passion for working with data to a professional role. Through my coursework and personal projects, I have developed expertise in Python, SQL, data visualization, and machine learning techniques. I am now seeking an entry-level position where I can contribute my knowledge and continue growing as a data professional</h3>
 
-<h3 align="left"></h3>
-- Gmail: dqtoan2905@gmail.com
+<h3 align="left">Contacts</h3>
 
+- Portfolio website: <a href="https://nguyenanhtuan1102.github.io/">nguyenanhtuan1102.github.io</a>
+- Linkedin: <a href="https://linkedin.com/in/tuanng1102/">linkedin.com/in/tuanng1102/</a>
+- Gmail: dqtoan2905@gmail.com
+  
 <h3 style="text-align: left;">🧰 Languages and Tools</h3>
 <p style="text-align: left;">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
