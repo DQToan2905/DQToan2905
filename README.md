@@ -32,7 +32,6 @@
 </p>
 
 <h3 align="left">📊 Stats</h3>
-![DQToan2905's Stats](https://github-readme-stats.vercel.app/api?username=dqtoan2905&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) ![DQToan2905's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dqtoan2905&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-
+![Stats](https://github-readme-stats.vercel.app/api?username=dqtoan2905&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dqtoan2905&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
