@@ -25,7 +25,8 @@
 </p>
 
 <h3 align="left">📊 Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dqtoan2905&show_icons=true&locale=en&layout=compact" alt="dqtoan2905&theme=tokyonight" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dqtoan2905&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="dqtoan2905" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dqtoan2905&show_icons=true&locale=en&theme=tokyonight" alt="dqtoan2905" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dqtoan2905&show_icons=true&locale=en&theme=tokyonight" alt="dqtoan2905" /></p>
+
 
