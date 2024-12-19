@@ -3,8 +3,6 @@
 
 <h3 align="left">Contacts</h3>
 
-- Portfolio website: <a href="https://nguyenanhtuan1102.github.io/">nguyenanhtuan1102.github.io</a>
-- Linkedin: <a href="https://linkedin.com/in/tuanng1102/">linkedin.com/in/tuanng1102/</a>
 - Gmail: dqtoan2905@gmail.com
   
 <h3 style="text-align: left;">🧰 Languages and Tools</h3>
