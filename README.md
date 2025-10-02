@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toan</h1>
-<h3 align="justify">As a university student pursuing a degree in data science, I am eager to apply my analytical skills and passion for working with data to a professional role. Through my coursework and personal projects, I have developed expertise in Python, SQL, data visualization, and machine learning techniques. I am now seeking an entry-level position where I can contribute my knowledge and continue growing as a data professional</h3>
+<h3 align="justify">Data Analyst with practical experience in retail and banking analytics. Proficient in analytics tools, providing detailed reports and storytelling to support data-driven decision-making. Passionate about learning and working effectively in a professional environment</h3>
 
 <h3 align="left">Contacts</h3> 
 
